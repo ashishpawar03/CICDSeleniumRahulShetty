@@ -1,0 +1,7 @@
+RahulShettySeleniumFramework\pageobjects\LandingPage.class
+RahulShettySeleniumFramework\pageobjects\CartPage.class
+RahulShettySeleniumFramework\pageobjects\ProductCatalogue.class
+RahulShettySeleniumFramework\pageobjects\CheckoutPage.class
+RahulShettySeleniumFramework\pageobjects\OrderConfirmationPage.class
+RahulShettySeleniumFramework\reusables\Reusable.class
+RahulShettySeleniumFramework\resources\ExtentReporterNG.class

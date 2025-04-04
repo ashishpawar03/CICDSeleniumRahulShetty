@@ -1,0 +1,22 @@
+[
+  {
+    "email": "ashishpawar1@gmail.lcl",
+    "password": "@Shishpawar1",
+    "product": "ADIDAS ORIGINAL",
+    "cardNumber": "2222 3333 4444 5555",
+    "cvv": "1234",
+    "cardName": "Ashish Pawar",
+    "country": "India",
+    "confirmMessageTextExpected": "Thankyou for the order."
+  },
+  {
+    "email": "ashishpawar1@gmail.lcl",
+    "password": "@Shishpawar1",
+    "product": "ZARA COAT 3",
+    "cardNumber": "2222 3333 4444 5555",
+    "cvv": "1234",
+    "cardName": "Ashish Pawar",
+    "country": "India",
+    "confirmMessageTextExpected": "Thankyou for the order."
+  }
+]
